@@ -112,21 +112,21 @@
 
 #### 1. **Short-term Goals** (Next 1-2 years):
 
- **Goal 1: Complete Web Development Certification**
+- **Goal 1: Complete Web Development Certification**
     - **Specific:** Obtain certification in web development technologies.
     - **Measurable:** Successfully complete the CodeSpace online courses.
     - **Achievable:** Leverage existing coding skills and pursue focused, structured learning.
     - **Relevant:** Aligns with the interest in web development within the software development field.
     - **Time-bound:** Complete within the next 6 months.
 
- **Goal 2: Contribute to Open Source Projects**
+- **Goal 2: Contribute to Open Source Projects**
     - **Specific:** Actively contribute to at least two open-source projects related to machine learning or aeronautical engineering software.
     - **Measurable:** Regularly submit pull requests and engage in project discussions.
     - **Achievable:** Apply coding skills to practical projects, building expertise and a portfolio.
     - **Relevant:** Connects aeronautical engineering background with software development, enhancing skills and visibility.
     - **Time-bound:** Begin contributions within the next 8 months and continue over the next 2 years.
 
- **Goal 3: Launch Language Tutoring App**
+- **Goal 3: Launch Language Tutoring App**
     - **Specific:** Develop and launch a language tutoring application integrating innovative teaching methods.
     - **Measurable:** Achieve a user base of 500 within the first 6 months.
     - **Achievable:** Combine coding skills with educational expertise, creating a unique value proposition.
@@ -135,14 +135,14 @@
 
 #### 2. **Long-term Goals** (3-5 years and beyond):
 
- **Goal 4: Lead a Software Development Team in Aerospace and/or ML Innovation**
+- **Goal 4: Lead a Software Development Team in Aerospace and/or ML Innovation**
     - **Specific:** Attain a leadership role in a software development team focused on Machine Learning and aerospace applications.
     - **Measurable:** Lead a team through the successful development and implementation of a significant software project in the aerospace sector.
     - **Achievable:** Combine aeronautical engineering knowledge with advanced software development skills.
     - **Relevant:** Aligns with the interest in exploring intersections between aeronautical engineering and software development.
     - **Time-bound:** Achieve within the next 4-5 years.
 
- **Goal 5: Establish an Educational Technology Startup**
+- **Goal 5: Establish an Educational Technology Startup**
     - **Specific:** Found a startup that creates innovative educational technology solutions, with a focus on coding education.
     - **Measurable:** Launch two successful products within the first 3 years.
     - **Achievable:** Utilize coding skills and educational background to address gaps in technology-based learning.
