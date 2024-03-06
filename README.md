@@ -1,9 +1,10 @@
-## Personal Information
+# Personal Information
 
 - **Name: Simnikiwe Sangoni**
 - **Date: 05/03/2024**
 - **Current Role/Position: Software Student at CodeSpace**
 - **Field of Interest: Software Development, Mandarin and Language Learning, Aeronautics**
+- **Personality Type**: INTJ
 
 # Part 1: Self-Assessment Reflection
 
