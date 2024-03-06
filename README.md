@@ -54,47 +54,47 @@
 #### 2. **Interests and Values**:
 - **Key Interests Related to Career:**
 
-        - Machine Learning and Coding
-        - Strategic Games
-        - Languages
-        - Reading (especially when it is observations linked to humans and their      behaviours with links to causes)
-        - Software development
-        - Aeronautical engineering (background)
-        - Tutoring (math, history, English, science, Mandarin)
+    - Machine Learning and Coding
+    - Strategic Games
+    - Languages
+    - Reading (especially when it is observations linked to humans and their      behaviours with links to causes)
+    - Software development
+    - Aeronautical engineering (background)
+    - Tutoring (math, history, English, science, Mandarin)
 
 
 - **Values Important in a Work Environment:**
 
-        - Order and structure: A systematic and organized work environment where tasks and processes are well-defined and follow a logical structure.
+    - Order and structure: A systematic and organized work environment where tasks and processes are well-defined and follow a logical structure.
 
-        - Clear instructions: Values receiving explicit and unambiguous guidance, preferring tasks and expectations to be communicated in a straightforward manner.
+    - Clear instructions: Values receiving explicit and unambiguous guidance, preferring tasks and expectations to be communicated in a straightforward manner.
 
-        - Ambition and dedication: A strong drive to achieve goals and success, coupled with unwavering commitment and perseverance in pursuing tasks and objectives.
+    - Ambition and dedication: A strong drive to achieve goals and success, coupled with unwavering commitment and perseverance in pursuing tasks and objectives.
 
-        - Preference for a task-oriented and focused environment: Thrives in an atmosphere where the primary emphasis is on completing tasks efficiently and maintaining a concentrated, goal-oriented work environment.
+    - Preference for a task-oriented and focused environment: Thrives in an atmosphere where the primary emphasis is on completing tasks efficiently and maintaining a concentrated, goal-oriented work environment.
 
-        - Diversity and Inclusion: Respecting and appreciating differences in background, perspectives, and experiences.
+    - Diversity and Inclusion: Respecting and appreciating differences in background, perspectives, and experiences.
 
-        - Work-Life Balance: Supporting a healthy balance between work and personal life. Providing flexibility when possible to accommodate individual needs.
+    - Work-Life Balance: Supporting a healthy balance between work and personal life. Providing flexibility when possible to accommodate individual needs.
 
-        - Respect and Fairness: Treating all individuals with respect and fairness.
+    - Respect and Fairness: Treating all individuals with respect and fairness.
 
-        - Learning and Development: Offering opportunities for continuous learning and skill enhancement.
+    - Learning and Development: Offering opportunities for continuous learning and skill enhancement.
 
 ### Part 2: Career Exploration Insights
 
 #### 1. **Industries and Roles Explored**:
 
-      - **Industries/Fields Explored:**
-        - Software Development
-        - Aeronautical Engineering
-        - Education (Tutoring)
+    - **Industries/Fields Explored:**
+       - Software Development
+       - Aeronautical Engineering
+       - Education (Tutoring)
 
-      - **Particular Areas of Interest:**
-        - Machine Learning and Coding
-        - Software development with a focus on web development
-        - Potential intersections between aeronautical engineering and software development
-        - Incorporating coding skills into educational roles, especially in language tutoring
+    - **Particular Areas of Interest:**
+       - Machine Learning and Coding
+       - Software development with a focus on web development
+       - Potential intersections between aeronautical engineering and software development
+       - Incorporating coding skills into educational roles, especially in language tutoring
 
 #### 2. **Alignment with Personal Profile**:
 
