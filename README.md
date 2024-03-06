@@ -9,9 +9,7 @@
 
 ### Part 1: Self-Assessment Reflection
 
-#### 1. **Skills Analysis**:
-        
-        Soft and Strong Skills Analysis:
+#### 1. **Skills Analysis**:      
 
 #### Soft Skills:
 
