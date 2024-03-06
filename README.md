@@ -1,9 +1,6 @@
 
 # Career Goals Reflection Template
 
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
 
 ### Instructions for Using the Template:
 
@@ -25,12 +22,45 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+     - HTML
+     - CSS
+     - Python
+     - MATLAB
+     - Excel
+
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+
+     - **Key Interests Related to Career:**
+
+        - Machine Learning and Coding
+        - Strategic Games
+        - Languages
+        - Reading (especially when it is observations linked to humans and their      behaviours with links to causes)
+        - Software development
+        - Aeronautical engineering (background)
+        - Tutoring (math, history, English, science, Mandarin)
+
+
+     - **Values Important in a Work Environment:**
+
+        - Order and structure: A systematic and organized work environment where tasks and processes are well-defined and follow a logical structure.
+
+        - Clear instructions: Values receiving explicit and unambiguous guidance, preferring tasks and expectations to be communicated in a straightforward manner.
+
+        - Ambition and dedication: A strong drive to achieve goals and success, coupled with unwavering commitment and perseverance in pursuing tasks and objectives.
+
+        - Preference for a task-oriented and focused environment: Thrives in an atmosphere where the primary emphasis is on completing tasks efficiently and maintaining a concentrated, goal-oriented work environment.
+
+        - Diversity and Inclusion: Respecting and appreciating differences in background, perspectives, and experiences.
+
+        - Work-Life Balance: Supporting a healthy balance between work and personal life. Providing flexibility when possible to accommodate individual needs.
+
+        - Respect and Fairness: Treating all individuals with respect and fairness.
+
+        - Learning and Development: Offering opportunities for continuous learning and skill enhancement.
+
+     
+
 
 ### Part 2: Career Exploration Insights
 
@@ -42,6 +72,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
     - Identify any gaps or areas for further exploration.
+    
 
 ### Part 3: SMART Career Goals
 
@@ -79,9 +110,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Submission
 
 - To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+
+
 
 
