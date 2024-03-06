@@ -13,43 +13,43 @@
 
 #### Soft Skills:
 
-   - 1. **Communication:**
+   - **Communication:**
         - **Strong:** Effective communication in tutoring various subjects.
         - **Soft:** Clear articulation of ideas in both written and verbal forms.
 
-   - 2. **Adaptability:**
+   - **Adaptability:**
         - **Strong:** Demonstrated by studying diverse subjects (software dev, aeronautical engineering) and playing provincials squash.
         - **Soft:** Willingness to embrace change and explore new ideas.
 
-   - 3. **Problem-Solving:**
+   - **Problem-Solving:**
         - **Strong:** Proficiency in Python and MATLAB showcases analytical problem-solving skills.
         - **Soft:** Readiness to tackle challenges with a strategic and methodical approach.
 
-   - 4. **Time Management:**
-            - **Strong:** Juggling studies, tutoring, and personal interests indicates effective time management.
-            - **Soft:** Ability to prioritize tasks for optimal efficiency.
+   - **Time Management:**
+        - **Strong:** Juggling studies, tutoring, and personal interests indicates effective time management.
+        - **Soft:** Ability to prioritize tasks for optimal efficiency.
 
-   - 5. **Collaboration:**
+   - **Collaboration:**
         - **Strong:** Collaborative skills honed through teamwork in software development and academic projects.
         - **Soft:** Readiness to work with diverse teams.
 
 #### Strong Technical Skills:
 
- - 1. **Web Development:**
-            - **Strong:** Proficiency in HTML, CSS, and Python for web development.
-            - **Soft:** Applying these skills to create a language learning website aligns with your interests.
+ - **Web Development:**
+        - **Strong:** Proficiency in HTML, CSS, and Python for web development.
+        - **Soft:** Applying these skills to create a language learning website aligns with your interests.
 
-     -  2. **Programming Languages:**
-            - **Strong:** Solid foundation in Python and MATLAB.
-            - **Soft:** Application of programming skills in both aeronautical engineering and software development.
+-  **Programming Languages:**
+        - **Strong:** Solid foundation in Python and MATLAB.
+        - **Soft:** Application of programming skills in both aeronautical engineering and software development.
 
-     -  3. **Data Analysis:**
-            - **Strong:** MATLAB expertise indicates proficiency in data analysis.
-            - **Soft:** Applying analytical skills to derive insights from diverse datasets.
+-  **Data Analysis:**
+        - **Strong:** MATLAB expertise indicates proficiency in data analysis.
+        - **Soft:** Applying analytical skills to derive insights from diverse datasets.
 
-     -  4. **Machine Learning Fundamentals:**
-            - **Strong:** Interest in machine learning aligns with coding and strategic game interests.
-            - **Soft:** Potential to apply ML in language learning website development.
+-  **Machine Learning Fundamentals:**
+        - **Strong:** Interest in machine learning aligns with coding and strategic game interests.
+        - **Soft:** Potential to apply ML in language learning website development.
 
 #### 2. **Interests and Values**:
         - **Key Interests Related to Career:**
