@@ -1,15 +1,13 @@
-# Career Goals Reflection Template
-
-### Personal Information
+## Personal Information
 
 - **Name: Simnikiwe Sangoni**
 - **Date: 05/03/2024**
 - **Current Role/Position: Software Student at CodeSpace**
 - **Field of Interest: Software Development, Mandarin and Language Learning, Aeronautics**
 
-### Part 1: Self-Assessment Reflection
+# Part 1: Self-Assessment Reflection
 
-#### 1. **Skills Analysis**:      
+## 1. **Skills Analysis**:      
 
 #### Soft Skills:
 
@@ -33,7 +31,7 @@
         - **Strong:** Collaborative skills honed through teamwork in software development and academic projects.
         - **Soft:** Readiness to work with diverse teams.
 
-#### Strong Technical Skills:
+### Strong Technical Skills:
 
    - **Web Development:**
         - **Strong:** Proficiency in HTML, CSS, and Python for web development.
@@ -51,7 +49,7 @@
         - **Strong:** Interest in machine learning aligns with coding and strategic game interests.
         - **Soft:** Potential to apply ML in language learning website development.
 
-#### 2. **Interests and Values**:
+## 2. **Interests and Values**:
 - **Key Interests Related to Career:**
 
     - Machine Learning and Coding
@@ -81,9 +79,9 @@
 
     - Learning and Development: Offering opportunities for continuous learning and skill enhancement.
 
-### Part 2: Career Exploration Insights
+# Part 2: Career Exploration Insights
 
-#### 1. **Industries and Roles Explored**:
+## 1. **Industries and Roles Explored**:
 
 - **Industries/Fields Explored:**
     - Software Development
@@ -96,7 +94,7 @@
     - Potential intersections between aeronautical engineering and software development
     - Incorporating coding skills into educational roles, especially in language tutoring
 
-#### 2. **Alignment with Personal Profile**:
+## 2. **Alignment with Personal Profile**:
 
 - **Reflection on Alignment:**
     - Software Development: Aligns with strong technical skills in web development and programming languages.
@@ -108,9 +106,9 @@
     - Investigating how coding skills can enhance language learning and tutoring methods.
     - Considering the integration of machine learning in the development of a personalized language learning website.
 
-### Part 3: SMART Career Goals
+# Part 3: SMART Career Goals
 
-#### 1. **Short-term Goals** (Next 1-2 years):
+## 1. **Short-term Goals** (Next 1-2 years):
 
 - **Goal 1: Complete Web Development Certification**
     - **Specific:** Obtain certification in web development technologies.
@@ -133,7 +131,7 @@
     - **Relevant:** Aligns with the interest in incorporating coding skills into educational roles.
     - **Time-bound:** Launch within the next 2 years.
 
-#### 2. **Long-term Goals** (3-5 years and beyond):
+## 2. **Long-term Goals** (3-5 years and beyond):
 
 - **Goal 4: Lead a Software Development Team in Aerospace and/or ML Innovation**
     - **Specific:** Attain a leadership role in a software development team focused on Machine Learning and aerospace applications.
@@ -149,9 +147,9 @@
     - **Relevant:** Aligns with the interest in blending coding skills with educational roles.
     - **Time-bound:** Launch the startup within the next 5 years.
 
-### Part 4: Action Plan
+# Part 4: Action Plan
 
-#### 1. **Steps to Achieve Short-term Goals**:
+## 1. **Steps to Achieve Short-term Goals**:
 
    - **Goal 1: Complete Advanced Web Development Certification**
      - **Actions:**
@@ -181,7 +179,7 @@
        - Online learning platforms for app development.
        - Engage with language learning communities for feedback.
 
-#### 2. **Preparation for Long-term Goals**:
+## 2. **Preparation for Long-term Goals**:
 
    - **Goal 4: Lead a Software Development Team in ML or Aerospace Innovation**
      - **Preparations:**
@@ -201,9 +199,9 @@
        - Acquire business and entrepreneurship skills through courses or workshops.
        - Understand legal aspects related to startups and educational technology.
 
-### Part 5: Reflection on Challenges and Opportunities
+# Part 5: Reflection on Challenges and Opportunities
 
-#### 1. **Anticipated Challenges**:
+## 1. **Anticipated Challenges**:
 
    - **Goal 1: Complete Web Development Certification**
      - **Challenges:**
@@ -229,7 +227,7 @@
        - Break down app development into manageable phases.
        - Utilize beta testing to gather user feedback for improvements.
 
-#### 2. **Opportunities for Growth**:
+## 2. **Opportunities for Growth**:
 
    - **Goal 4: Lead a Software Development Team in ML or Aerospace Innovation**
      - **Opportunities:**
