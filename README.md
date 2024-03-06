@@ -10,7 +10,7 @@
 
 ## 1. **Skills Analysis**:      
 
-#### Soft Skills:
+### Soft Skills:
 
    - **Communication:**
         - **Strong:** Effective communication in tutoring various subjects.
@@ -51,7 +51,7 @@
         - **Soft:** Potential to apply ML in language learning website development.
 
 ## 2. **Interests and Values**:
-- **Key Interests Related to Career:**
+### Key Interests Related to Career:
 
     - Machine Learning and Coding
     - Strategic Games
@@ -62,7 +62,7 @@
     - Tutoring (math, history, English, science, Mandarin)
 
 
-- **Values Important in a Work Environment:**
+### Values Important in a Work Environment:
 
     - Order and structure: A systematic and organized work environment where tasks and processes are well-defined and follow a logical structure.
 
@@ -84,12 +84,12 @@
 
 ## 1. **Industries and Roles Explored**:
 
-- **Industries/Fields Explored:**
+### **Industries/Fields Explored:**
     - Software Development
     - Aeronautical Engineering
     - Education (Tutoring)
 
-- **Particular Areas of Interest:**
+### **Particular Areas of Interest:**
     - Machine Learning and Coding
     - Software development with a focus on web development
     - Potential intersections between aeronautical engineering and software development
@@ -97,12 +97,12 @@
 
 ## 2. **Alignment with Personal Profile**:
 
-- **Reflection on Alignment:**
+### **Reflection on Alignment:**
     - Software Development: Aligns with strong technical skills in web development and programming languages.
     - Aeronautical Engineering: Opportunities to explore applications of coding in aeronautical engineering.
     - Education/Tutoring: Synergies between coding skills and tutoring subjects, especially Mandarin.
 
-- **Identified Gaps or Areas for Further Exploration:**
+### **Identified Gaps or Areas for Further Exploration:**
     - Exploring specific niches within software development that leverage aeronautical engineering background.
     - Investigating how coding skills can enhance language learning and tutoring methods.
     - Considering the integration of machine learning in the development of a personalized language learning website.
@@ -111,21 +111,21 @@
 
 ## 1. **Short-term Goals** (Next 1-2 years):
 
-- **Goal 1: Complete Web Development Certification**
+#### **Goal 1: Complete Web Development Certification**
     - **Specific:** Obtain certification in web development technologies.
     - **Measurable:** Successfully complete the CodeSpace online courses.
     - **Achievable:** Leverage existing coding skills and pursue focused, structured learning.
     - **Relevant:** Aligns with the interest in web development within the software development field.
     - **Time-bound:** Complete within the next 6 months.
 
-- **Goal 2: Contribute to Open Source Projects**
+#### **Goal 2: Contribute to Open Source Projects**
     - **Specific:** Actively contribute to at least two open-source projects related to machine learning or aeronautical engineering software.
     - **Measurable:** Regularly submit pull requests and engage in project discussions.
     - **Achievable:** Apply coding skills to practical projects, building expertise and a portfolio.
     - **Relevant:** Connects aeronautical engineering background with software development, enhancing skills and visibility.
     - **Time-bound:** Begin contributions within the next 8 months and continue over the next 2 years.
 
-- **Goal 3: Launch Language Tutoring App**
+#### **Goal 3: Launch Language Tutoring App**
     - **Specific:** Develop and launch a language tutoring application integrating innovative teaching methods.
     - **Measurable:** Achieve a user base of 500 within the first 6 months.
     - **Achievable:** Combine coding skills with educational expertise, creating a unique value proposition.
@@ -134,14 +134,14 @@
 
 ## 2. **Long-term Goals** (3-5 years and beyond):
 
-- **Goal 4: Lead a Software Development Team in Aerospace and/or ML Innovation**
+#### **Goal 4: Lead a Software Development Team in Aerospace and/or ML Innovation**
     - **Specific:** Attain a leadership role in a software development team focused on Machine Learning and aerospace applications.
     - **Measurable:** Lead a team through the successful development and implementation of a significant software project in the aerospace sector.
     - **Achievable:** Combine aeronautical engineering knowledge with advanced software development skills.
     - **Relevant:** Aligns with the interest in exploring intersections between aeronautical engineering and software development.
     - **Time-bound:** Achieve within the next 4-5 years.
 
-- **Goal 5: Establish an Educational Technology Startup**
+#### **Goal 5: Establish an Educational Technology Startup**
     - **Specific:** Found a startup that creates innovative educational technology solutions, with a focus on coding education.
     - **Measurable:** Launch two successful products within the first 3 years.
     - **Achievable:** Utilize coding skills and educational background to address gaps in technology-based learning.
@@ -152,7 +152,7 @@
 
 ## 1. **Steps to Achieve Short-term Goals**:
 
-   - **Goal 1: Complete Advanced Web Development Certification**
+   #### **Goal 1: Complete Advanced Web Development Certification**
      - **Actions:**
        - Enroll in online courses for Software Development.
        - Dedicate at least 40 hours per week to coursework and projects.
@@ -162,7 +162,7 @@
        - Online learning platforms (e.g., Udemy, Coursera, Scrimba).
        - Join web development communities for support and collaboration.
 
-   - **Goal 2: Contribute to Open Source Projects**
+   #### **Goal 2: Contribute to Open Source Projects**
      - **Actions:**
        - Identify and select relevant open-source projects.
        - Fork repositories, study codebase, and start with minor bug fixes.
@@ -171,7 +171,7 @@
        - GitHub for project discovery and collaboration.
        - Seek mentorship from experienced contributors.
 
-   - **Goal 3: Launch Language Tutoring App**
+   #### **Goal 3: Launch Language Tutoring App**
      - **Actions:**
        - Identify unique teaching methods for Mandarin.
        - Develop a user-friendly and interactive application.
@@ -182,7 +182,7 @@
 
 ## 2. **Preparation for Long-term Goals**:
 
-   - **Goal 4: Lead a Software Development Team in ML or Aerospace Innovation**
+   #### **Goal 4: Lead a Software Development Team in ML or Aerospace Innovation**
      - **Preparations:**
        - Pursue leadership and project management training (MBA perhaps).
        - Stay updated on advancements in aerospace technology and software applications.
@@ -191,7 +191,7 @@
        - Obtain a project management certification (e.g., PMP).
        - Enhance knowledge of aerospace software standards and regulations.
 
-   - **Goal 5: Establish an Educational Technology Startup**
+   #### **Goal 5: Establish an Educational Technology Startup**
      - **Preparations:**
        - Gain experience in startup environments, possibly through internships or collaborations.
        - Develop a deep understanding of the educational technology market and its challenges.
@@ -204,7 +204,7 @@
 
 ## 1. **Anticipated Challenges**:
 
-   - **Goal 1: Complete Web Development Certification**
+   #### **Goal 1: Complete Web Development Certification**
      - **Challenges:**
        - Balancing coursework with other responsibilities.
        - Staying motivated and consistent during learning.
@@ -212,7 +212,7 @@
        - Create a study schedule and allocate dedicated time each week.
        - Join study groups or forums for motivation and collaboration.
 
-   - **Goal 2: Contribute to Open Source Projects**
+   #### **Goal 2: Contribute to Open Source Projects**
      - **Challenges:**
        - Navigating complex codebases of open-source projects.
        - Managing time between contributions and other commitments.
@@ -220,7 +220,7 @@
        - Start with smaller, manageable projects to build confidence.
        - Prioritize tasks and set realistic expectations for contribution frequency.
 
-   - **Goal 3: Launch Language Tutoring App**
+   #### **Goal 3: Launch Language Tutoring App**
      - **Challenges:**
        - Technical challenges in app development.
        - Attracting and retaining users in a competitive market.
@@ -230,21 +230,21 @@
 
 ## 2. **Opportunities for Growth**:
 
-   - **Goal 4: Lead a Software Development Team in ML or Aerospace Innovation**
+   #### **Goal 4: Lead a Software Development Team in ML or Aerospace Innovation**
      - **Opportunities:**
        - Networking within aerospace and software development communities.
        - Seeking mentorship from experienced leaders in these industries.
        - Exploring industry-sponsored training and development programs.
        - Joining professional organizations and attending conferences.
 
-   - **Goal 5: Establish an Educational Technology Startup**
+   #### **Goal 5: Establish an Educational Technology Startup**
      - **Opportunities:**
        - Engaging with startup incubators or accelerators for guidance and funding.
        - Building relationships with potential investors or partners.
        - Leveraging educational networks for insights and collaboration.
        - Exploring government grants or initiatives supporting educational technology startups.
 
-   - **General Growth Opportunities:**
+   ### **General Growth Opportunities:**
      - **Networking:**
        - Attend industry events, meetups, and conferences to expand professional connections.
        - Engage in online forums and communities related to software development, education, and entrepreneurship.
