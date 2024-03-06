@@ -53,13 +53,13 @@
 ## 2. **Interests and Values**:
 ### Key Interests Related to Career:
 
-    - Machine Learning and Coding
-    - Strategic Games
-    - Languages
-    - Reading (especially when it is observations linked to humans and their      behaviours with links to causes)
-    - Software development
-    - Aeronautical engineering (background)
-    - Tutoring (math, history, English, science, Mandarin)
+- Machine Learning and Coding
+- Strategic Games
+- Languages
+- Reading (especially when it is observations linked to humans and their      behaviours with links to causes)
+- Software development
+- Aeronautical engineering (background)
+- Tutoring (math, history, English, science, Mandarin)
 
 
 ### Values Important in a Work Environment:
@@ -152,7 +152,7 @@
 
 ## 1. **Steps to Achieve Short-term Goals**:
 
-   #### **Goal 1: Complete Advanced Web Development Certification**
+#### **Goal 1: Complete Advanced Web Development Certification**
     - **Actions:**
     - Enroll in online courses for Software Development.
     - Dedicate at least 40 hours per week to coursework and projects.
