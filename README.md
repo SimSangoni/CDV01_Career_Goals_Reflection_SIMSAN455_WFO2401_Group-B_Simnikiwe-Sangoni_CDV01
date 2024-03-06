@@ -35,19 +35,19 @@
 
 #### Strong Technical Skills:
 
- - **Web Development:**
+   - **Web Development:**
         - **Strong:** Proficiency in HTML, CSS, and Python for web development.
         - **Soft:** Applying these skills to create a language learning website aligns with your interests.
 
--  **Programming Languages:**
+   -  **Programming Languages:**
         - **Strong:** Solid foundation in Python and MATLAB.
         - **Soft:** Application of programming skills in both aeronautical engineering and software development.
 
--  **Data Analysis:**
+   -  **Data Analysis:**
         - **Strong:** MATLAB expertise indicates proficiency in data analysis.
         - **Soft:** Applying analytical skills to derive insights from diverse datasets.
 
--  **Machine Learning Fundamentals:**
+   -  **Machine Learning Fundamentals:**
         - **Strong:** Interest in machine learning aligns with coding and strategic game interests.
         - **Soft:** Potential to apply ML in language learning website development.
 
