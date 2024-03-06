@@ -154,51 +154,51 @@
 
 #### **Goal 1: Complete Advanced Web Development Certification**
 - **Actions:**
-- Enroll in online courses for Software Development.
-- Dedicate at least 40 hours per week to coursework and projects.
-- Build a portfolio showcasing projects using these frameworks.
+    - Enroll in online courses for Software Development.
+    - Dedicate at least 40 hours per week to coursework and projects.
+    - Build a portfolio showcasing projects using these frameworks.
 - **Resources/Support:**
-- CodeSpace
-- Online learning platforms (e.g., Udemy, Coursera, Scrimba).
-- Join web development communities for support and collaboration.
+    - CodeSpace
+    - Online learning platforms (e.g., Udemy, Coursera, Scrimba).
+    - Join web development communities for support and collaboration.
 
 #### **Goal 2: Contribute to Open Source Projects**
 - **Actions:**
-- Identify and select relevant open-source projects.
-- Fork repositories, study codebase, and start with minor bug fixes.
-- Gradually take on more significant tasks and feature development.
+    - Identify and select relevant open-source projects.
+    - Fork repositories, study codebase, and start with minor bug fixes.
+    - Gradually take on more significant tasks and feature development.
 - **Resources/Support:**
-- GitHub for project discovery and collaboration.
-- Seek mentorship from experienced contributors.
+    - GitHub for project discovery and collaboration.
+    - Seek mentorship from experienced contributors.
 
 #### **Goal 3: Launch Language Tutoring App**
 - **Actions:**
-- Identify unique teaching methods for Mandarin.
-- Develop a user-friendly and interactive application.
-- Conduct beta testing and gather user feedback for improvements.
+    - Identify unique teaching methods for Mandarin.
+    - Develop a user-friendly and interactive application.
+    - Conduct beta testing and gather user feedback for improvements.
 - **Resources/Support:**
-- Online learning platforms for app development.
-- Engage with language learning communities for feedback.
+    - Online learning platforms for app development.
+    - Engage with language learning communities for feedback.
 
 ## 2. **Preparation for Long-term Goals**:
 
 #### **Goal 4: Lead a Software Development Team in ML or Aerospace Innovation**
 - **Preparations:**
-- Pursue leadership and project management training (MBA perhaps).
-- Stay updated on advancements in aerospace technology and software applications.
-- Build a strong professional network within the aerospace and software development industries.
+    - Pursue leadership and project management training (MBA perhaps).
+    - Stay updated on advancements in aerospace technology and software applications.
+    - Build a strong professional network within the aerospace and software development industries.
 - **Additional Skills/Qualifications:**
-- Obtain a project management certification (e.g., PMP).
-- Enhance knowledge of aerospace software standards and regulations.
+    - Obtain a project management certification (e.g., PMP).
+    - Enhance knowledge of aerospace software standards and regulations.
 
 #### **Goal 5: Establish an Educational Technology Startup**
 - **Preparations:**
-- Gain experience in startup environments, possibly through internships or collaborations.
-- Develop a deep understanding of the educational technology market and its challenges.
-- Build a network of mentors and advisors in both education and technology sectors.
+    - Gain experience in startup environments, possibly through internships or collaborations.
+    - Develop a deep understanding of the educational technology market and its challenges.
+    - Build a network of mentors and advisors in both education and technology sectors.
 - **Additional Skills/Qualifications:**
-- Acquire business and entrepreneurship skills through courses or workshops.
-- Understand legal aspects related to startups and educational technology.
+    - Acquire business and entrepreneurship skills through courses or workshops.
+    - Understand legal aspects related to startups and educational technology.
 
 # Part 5: Reflection on Challenges and Opportunities
 
@@ -206,51 +206,51 @@
 
 #### **Goal 1: Complete Web Development Certification**
 - **Challenges:**
-- Balancing coursework with other responsibilities.
-- Staying motivated and consistent during learning.
+    - Balancing coursework with other responsibilities.
+    - Staying motivated and consistent during learning.
 - **Strategies:**
-- Create a study schedule and allocate dedicated time each week.
-- Join study groups or forums for motivation and collaboration.
+    - Create a study schedule and allocate dedicated time each week.
+    - Join study groups or forums for motivation and collaboration.
 
 #### **Goal 2: Contribute to Open Source Projects**
 - **Challenges:**
-- Navigating complex codebases of open-source projects.
-- Managing time between contributions and other commitments.
+    - Navigating complex codebases of open-source projects.
+    - Managing time between contributions and other commitments.
 - **Strategies:**
-- Start with smaller, manageable projects to build confidence.
-- Prioritize tasks and set realistic expectations for contribution frequency.
+    - Start with smaller, manageable projects to build confidence.
+    - Prioritize tasks and set realistic expectations for contribution frequency.
 
 #### **Goal 3: Launch Language Tutoring App**
 - **Challenges:**
-- Technical challenges in app development.
-- Attracting and retaining users in a competitive market.
+    - Technical challenges in app development.
+    - Attracting and retaining users in a competitive market.
 - **Strategies:**
-- Break down app development into manageable phases.
-- Utilize beta testing to gather user feedback for improvements.
+    - Break down app development into manageable phases.
+    - Utilize beta testing to gather user feedback for improvements.
 
 ## 2. **Opportunities for Growth**:
 
 #### **Goal 4: Lead a Software Development Team in ML or Aerospace Innovation**
 - **Opportunities:**
-- Networking within aerospace and software development communities.
-- Seeking mentorship from experienced leaders in these industries.
-- Exploring industry-sponsored training and development programs.
-- Joining professional organizations and attending conferences.
+    - Networking within aerospace and software development communities.
+    - Seeking mentorship from experienced leaders in these industries.
+    - Exploring industry-sponsored training and development programs.
+    - Joining professional organizations and attending conferences.
 
 #### **Goal 5: Establish an Educational Technology Startup**
 - **Opportunities:**
-- Engaging with startup incubators or accelerators for guidance and funding.
-- Building relationships with potential investors or partners.
-- Leveraging educational networks for insights and collaboration.
-- Exploring government grants or initiatives supporting educational technology startups.
+    - Engaging with startup incubators or accelerators for guidance and funding.
+    - Building relationships with potential investors or partners.
+    - Leveraging educational networks for insights and collaboration.
+    - Exploring government grants or initiatives supporting educational technology startups.
 
 ### **General Growth Opportunities:**
 - **Networking:**
-- Attend industry events, meetups, and conferences to expand professional connections.
-- Engage in online forums and communities related to software development, education, and entrepreneurship.
+    - Attend industry events, meetups, and conferences to expand professional connections.
+    - Engage in online forums and communities related to software development, education, and entrepreneurship.
 - **Mentorship:**
-- Seek mentors in the software development, aerospace, and educational technology fields.
-- Participate in mentorship programs offered by industry organizations.
+    - Seek mentors in the software development, aerospace, and educational technology fields.
+    - Participate in mentorship programs offered by industry organizations.
 - **Educational Opportunities:**
-- Explore scholarship opportunities for further education and skill development.
-- Take advantage of free or discounted courses on online learning platforms.
+    - Explore scholarship opportunities for further education and skill development.
+    - Take advantage of free or discounted courses on online learning platforms.
